@@ -18,5 +18,8 @@
     "typescript": "^5.5.2",
     "vue": "latest"
   },
-  "packageManager": "pnpm@8.14.1+sha1.d039b38e0b20ad012ed548e44267b8d4c88b447a"
+  "packageManager": "pnpm@8.14.1+sha1.d039b38e0b20ad012ed548e44267b8d4c88b447a",
+  "dependencies": {
+    "@nuxt/content": "^2.13.0"
+  }
 }
