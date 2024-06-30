@@ -1,0 +1,22 @@
+{
+  "name": "my-nuxt-layer",
+  "type": "module",
+  "version": "0.0.1",
+  "main": "./nuxt.config.ts",
+  "scripts": {
+    "dev": "nuxi dev .playground",
+    "dev:prepare": "nuxt prepare .playground",
+    "build": "nuxt build .playground",
+    "generate": "nuxt generate .playground",
+    "preview": "nuxt preview .playground",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@nuxt/eslint": "latest",
+    "eslint": "^9.6.0",
+    "nuxt": "^3.12.2",
+    "typescript": "^5.5.2",
+    "vue": "latest"
+  },
+  "packageManager": "pnpm@8.14.1+sha1.d039b38e0b20ad012ed548e44267b8d4c88b447a"
+}
