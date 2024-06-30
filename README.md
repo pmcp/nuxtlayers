@@ -1,7 +1,3 @@
-# Packages
-
-- @nuxt/image 
-
 # About Nuxt Layer Starter
 
 Create Nuxt extendable layer with this GitHub template.
