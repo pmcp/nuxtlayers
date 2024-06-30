@@ -1,5 +1,5 @@
 # Packages
-
+- @nuxt/ui
 - @nuxt/image 
 
 # About Nuxt Layer Starter
